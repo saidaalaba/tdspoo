@@ -70,7 +70,7 @@ public class Temps {
  }
 
  @Override
- public String toString() {
+ public  String toString() {
   return "Temps{" +
           "heur=" + heur +
           ", min=" + min +
